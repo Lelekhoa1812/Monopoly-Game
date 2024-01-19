@@ -13,3 +13,4 @@ Press [M] to learn more about marker's outline color rules.
 Press [N] to change your name.
 
 The game is powered by SplashKit SDK, you may have to download this tool to play the game. 
+Tips: You may find other mini games in the pausing window.
